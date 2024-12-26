@@ -1,1 +1,7 @@
-# QuaoteCalculator
+- Download the ZIP file.
+- Click the Start button, then select Configure Startup Project.
+- Choose Multiple Startup Projects.
+- Click Start for both actions to begin.
+- Open the Package Manager Console.
+- Run the command: update-database.
+- Finally, run the application.
